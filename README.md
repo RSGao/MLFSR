@@ -28,5 +28,5 @@ Set parameters in ```option.py``` and run ```train.py``` or ```train_multi.py```
 
 
 ## Acknowledgement
-This repository is based on the [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR).
+This repository is based on the [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR), thanks for their open-source framework.
 
